@@ -1,2 +1,1 @@
 # AttractionDetailsQA
-coming soon
